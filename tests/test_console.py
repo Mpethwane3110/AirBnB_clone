@@ -1,4 +1,4 @@
-#!/usr/bin/python3
+#!/usr/bin/python3i
 """Defines unittests for console.py.
 
 Unittest classes:
